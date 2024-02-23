@@ -3,8 +3,8 @@
 
 ![Snake animation](https://github.com/isabelaacr/isabelaacr/blob/output/github-contribution-grid-snake.svg)
 
-<!--
 
+<!--
 
 Here are some ideas to get you started:
 
