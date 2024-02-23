@@ -1,9 +1,6 @@
 ### Bem vindo ao meu perfil 👋
 ![isabelaacr GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelaacr&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/isabelaacr/isabelaacr/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 
 Here are some ideas to get you started:
