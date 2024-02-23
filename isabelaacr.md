@@ -1,7 +1,10 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👋
 ![isabelaacr GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelaacr&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/isabelaacr/isabelaacr/blob/output/github-contribution-grid-snake.svg)
+
 <!--
-**isabelaacr/isabelaacr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
