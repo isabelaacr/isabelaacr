@@ -1,4 +1,4 @@
-### 🔭 Me chamo Isabela e atualmente sou estudante de engenharia de computação!🤖 Aqui procuro compartilhar um pouco dos meus estudos e projetos!
+🔭 Me chamo Isabela e atualmente sou estudante de engenharia de computação!🤖 Aqui procuro compartilhar um pouco dos meus estudos e projetos!
 ![isabelaacr GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelaacr&show_icons=true&theme=radical)
 
 <!--
